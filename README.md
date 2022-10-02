@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Frontend and Backend Engineering.
 - 💞️ I’m looking to collaborate on anything at the moment.
 - 📫 email: tommytimmytony@gmail.com   
-- 📫 number: 210-769-6855
 
 <!---
 tommytimmytony/tommytimmytony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
