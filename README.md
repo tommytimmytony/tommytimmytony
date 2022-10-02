@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tommy Nguyen.
+- 👋 My name is Tommy and I'm a computer science student from UTSA.
 - 👀 I’m interested in Full Stack Enginerring, Cyber Security, and Cloud.
 - 🌱 I’m currently learning Frontend and Backend Engineering.
 - 💞️ I’m looking to collaborate on anything at the moment.
